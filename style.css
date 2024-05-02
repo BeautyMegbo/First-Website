@@ -1,0 +1,81 @@
+p{
+    color:red;
+    font-size: 16px;
+}
+#about-bootcamp{
+    background: purple;
+    padding: 10x;
+}
+body{
+ background: rgb(255 20 150);
+ margin: 0;
+}
+nav{
+    background: rgb(122,23,35);
+
+}
+.text-center {
+    text-align: center;
+  }
+  *//* hexadecimal - 16 
+  0-9
+  a-f
+  values between 00 and ff
+  
+  #rrggbb - 
+  #000000 - black 
+  #ffffff-white
+  
+  
+  #0f347e
+  00
+  11
+  22
+  33
+  44
+  55
+  66
+  77
+  88
+  99
+  aa
+  bb
+  cc
+  dd
+  ee
+  ff */
+
+  h1{
+    background: rgb(150,55,55);
+  }
+  h2{color:#0f347e;
+    font-size: 16px
+}
+
+.form-element {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+button {
+  background: purple;
+  color: white;
+  padding: 10px;
+  border: 0;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+table{
+  width: 100%;
+}
+th{
+  font-size: 18px
+}
+  img {
+width: 200px;
+height: 300px;
+
+}
